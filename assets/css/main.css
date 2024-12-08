@@ -3788,7 +3788,10 @@ body.is-preload #intro:not(.hidden)+#header+#nav {
 		font-size: 1rem;
 		margin-top: 0rem;
 	}
-
+.flex-div {
+	display: flex;
+	flex-direction: column;
+}
 	#intro .actions {
 		display: none;
 	}

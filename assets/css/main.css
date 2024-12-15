@@ -2311,6 +2311,12 @@ hr {
 	height: 70vh;
 	object-fit: cover;
 }
+
+.icon {
+	cursor: pointer;
+}
+
+
 a {
 	cursor: pointer !important;;
 }
@@ -3795,7 +3801,6 @@ body.is-preload #intro:not(.hidden)+#header+#nav {
 	#intro .actions {
 		display: none;
 	}
-
 }
 
 /* Header */
